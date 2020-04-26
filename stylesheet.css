@@ -3,15 +3,16 @@
 /* Footer */
 footer p {
   color: white;
-  background-color: grey;
   font-family: 'Libre Franklin', sans-serif;
   font-size: 20px;
-  height: 65px;
+  
   
 }
 
 footer {
-  margin-top: 20px;
+  background-color: grey;
+  height: 65px;
+  line-height: 65px;
   padding-top: 30px;
   padding-bottom: 20px;
 }
